@@ -153,29 +153,30 @@ emergence-of-collective-behaviour/
 
 ## Visuals
 
+### Animated Boids Simulation
+
 <p align="center">
   <img src="assets/boid.gif" alt="Boid model simulation" width="600px" />
 </p>
 
+Below are the static figures and animation that illustrate key results:
 
-The following plots and animations illustrate key results:
-
-- **collective\_motion.pdf** – sample flocking trajectories at low noise.
-- **weight\_comparison.pdf** – solver weight vs. performance.
-- **periodic\_boundaries\_example.pdf** – demonstrating periodic boundary conditions.
-- **Reynolds\_rules.pdf** – schematic of separation, alignment, cohesion.
-- **kdtree.pdf** – neighbor search acceleration via k‑d tree.
-- **numerical\_accuracy.pdf** – convergence order for each integrator.
-- **order\_param\_vs\_noise.pdf** – global order parameter vs. noise amplitude.
-- **example\_of\_noise\_effect.pdf** – snapshots comparing low/high noise.
-- **heat\_map.pdf** – phase diagram heatmap over (noise, radius).
-- **low\_noise.pdf** – detailed low‑noise collision snapshot.
-- **high\_noise.pdf** – detailed high‑noise fragmented flock.
-- **dbscan.pdf** – clustering results via DBSCAN.
-- **cluster\_distribution\_low\.pdf** – cluster size distribution at low noise.
-- **high\_cluster.png** – visual of largest clusters under low/high noise.
-- **velocity\_corr.pdf** – spatial velocity correlation functions.
-- **boids.gif** – animated flocking simulation.
+- **collective_motion.pdf** – sample flocking trajectories at low noise  
+- **weight_comparison.pdf** – solver weight vs. performance  
+- **periodic_boundaries_example.pdf** – demonstrating periodic boundary conditions  
+- **Reynolds_rules.pdf** – schematic of separation, alignment, cohesion  
+- **kdtree.pdf** – neighbor search acceleration via k‑d tree  
+- **numerical_accuracy.pdf** – convergence order for each integrator  
+- **order_param_vs_noise.pdf** – global order parameter vs. noise amplitude  
+- **example_of_noise_effect.pdf** – snapshots comparing low/high noise  
+- **heat_map.pdf** – phase diagram heatmap over (noise, radius)  
+- **low_noise.pdf** – detailed low‑noise collision snapshot  
+- **high_noise.pdf** – detailed high‑noise fragmented flock  
+- **dbscan.pdf** – clustering results via DBSCAN  
+- **cluster_distribution_low.pdf** – cluster size distribution at low noise  
+- **high_cluster.png** – visualization of largest clusters under low/high noise  
+- **velocity_corr.pdf** – spatial velocity correlation functions  
+- **boid.gif** – animated boids simulation  
 
 ---
 
