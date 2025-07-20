@@ -1,6 +1,4 @@
 # Emergence of Collective Behaviour in Flocking Systems
-
-\
 \
 
 
@@ -154,6 +152,11 @@ emergence-of-collective-behaviour/
 ---
 
 ## Visuals
+
+<p align="center">
+  <img src="assets/boid.gif" alt="Boid model simulation" width="600px" />
+</p>
+
 
 The following plots and animations illustrate key results:
 
